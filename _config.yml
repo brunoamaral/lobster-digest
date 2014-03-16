@@ -1,14 +1,14 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Lobster Digest
+description:      ""
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: lobster-digest
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://labs.brunoamaral.eu
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Lobsters 
   avatar:         bio-photo.jpg
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
@@ -36,20 +36,15 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Lisbon
 future:      true
 pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 
 kramdown:
   auto_ids: true
