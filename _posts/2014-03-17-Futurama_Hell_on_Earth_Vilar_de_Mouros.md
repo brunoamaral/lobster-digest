@@ -16,10 +16,15 @@ share: true
 ## How Futurama Gets Science Right (Sort of) 
 <http://news.discovery.com/space/slide-show-futurama-final-episode-science-110913.htm>
 
+---
+
+
 ## Hell on Earth : future punishment
 >"Is it really OK to lock someone up for the best part of the only life they will ever have, or might it be more humane to tinker with their brains and set them free?"
 
 <http://aeon.co/magazine/living-together/should-biotech-make-life-hellish-for-criminals/>
+
+---
 
 ## Relatório integral da PIDE sobre o Festival de Vilar de Mouros (1971)
 
